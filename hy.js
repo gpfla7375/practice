@@ -1,3 +1,3 @@
-const hyerim = "바보";
+const hyemi = "귀염둥이";
 
-console.log(hyerim);
+console.log(hyemi);
